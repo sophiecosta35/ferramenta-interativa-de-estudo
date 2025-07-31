@@ -1,9 +1,7 @@
 body {
-background-color:blue
+    background-color: aquamarine;
 }
 
 footer {
-    background-color: black;
-    color:blanchedalmond;
-    bottom: 0;
+    background-color: rgb(129, 40, 40);
 }

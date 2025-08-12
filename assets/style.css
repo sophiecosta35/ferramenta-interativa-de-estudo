@@ -1,6 +1,14 @@
 body {
-    background-color: rgb(0, 157, 248);
+    background-color: rgb(33, 88, 207);
     font-family: Bai Jamjuree;
+}
+
+#container {
+    display: flex;
+}
+
+.cartao {
+    margin: 1rem 1rem;
 }
 
 footer {
